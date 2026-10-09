@@ -1,0 +1,33 @@
+{
+  "source_filename": "FJHown26.bib",
+  "source_sha256": "eb5a39fc4b10ea2e59f80d6ff36778097dfd44d0d4129175f9b5eecac07c55b0",
+  "source_records": 196,
+  "imported_records": 144,
+  "exclusions": {
+    "missing_or_uncertain_year": 5,
+    "nonpublication_resource": 6,
+    "private_preparation": 13,
+    "reference_only_or_not_authored_edited": 23,
+    "review_without_public_identifier": 5
+  },
+  "warnings": {
+    "source_year_has_plus": 1
+  },
+  "status_counts": {
+    "Forthcoming": 2,
+    "Published": 139,
+    "Public preprint": 3
+  },
+  "category_counts": {
+    "Journal articles": 85,
+    "Software": 7,
+    "Chapters & conference papers": 41,
+    "Other publications": 8,
+    "Edited volumes": 3
+  },
+  "duplicate_doi_groups": 1,
+  "records_without_public_link": 79,
+  "topic_keys_not_in_public_catalog": 0,
+  "exclusion_keys_not_in_source": 0,
+  "coverage_note": "A sanitized snapshot of the supplied bibliography, not an exhaustive or current publication claim."
+}

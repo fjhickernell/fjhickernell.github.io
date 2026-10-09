@@ -1,0 +1,34 @@
+---
+title: Research
+description: Monte Carlo and quasi-Monte Carlo methods, reliable numerical computation, and information-based complexity.
+---
+
+My research asks how we can compute useful answers efficiently and know when
+the accuracy is sufficient. The questions are especially interesting for
+high-dimensional integration and approximation.
+
+## Monte Carlo and quasi-Monte Carlo
+
+Monte Carlo methods use random samples; quasi-Monte Carlo methods use carefully
+distributed points. I study sampling methods, their error, and how mathematical
+theory can guide their use in computation.
+
+## Reliable numerical computation
+
+An algorithm should do more than produce an answer. It should provide a
+justifiable assessment of accuracy and a sensible way to decide when to stop.
+Adaptive integration, approximation, and uncertainty quantification connect
+these questions to practical problems.
+
+## Information-based complexity
+
+How much work does a numerical problem require? I study how this depends on
+dimension, the information available to an algorithm, and the class of functions
+being considered.
+
+## Publications and related resources
+
+- [Publications by year, with search and citation downloads](../publications/index.qmd)
+- [Google Scholar profile](https://scholar.google.com/citations?user=dJbMJG8AAAAJ&hl=en)
+- [Research presentations](../talks/index.qmd)
+- [Scientific software](../software/index.qmd)

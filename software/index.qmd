@@ -1,0 +1,34 @@
+---
+title: Software
+description: Open-source scientific and academic software associated with Fred Hickernell.
+---
+
+Scientific software provides a way to put mathematical ideas to work and make
+them available to other researchers, instructors, and practitioners.
+
+## QMCPy
+
+[QMCPy](https://qmcpy.org/) is a Python framework for quasi-Monte Carlo sampling
+and integration. Its components support sampling schemes, measure transforms,
+integrands, and stopping criteria.
+
+[Documentation](https://qmcsoftware.github.io/QMCSoftware/)
+· [Source repository](https://github.com/QMCSoftware/QMCSoftware)
+· [QMCSoftware community](https://qmcsoftware.org/)
+
+## GAIL
+
+The [Guaranteed Automatic Integration Library](https://gailgithub.github.io/GAIL_Dev/)
+provides MATLAB algorithms for numerical integration with guarantees under
+their stated assumptions.
+
+[Source repository](https://github.com/GailGithub/GAIL_Dev)
+
+## Hickernell<wbr>AcademicLib
+
+[HickernellAcademicLib](https://github.com/fjhickernell/HickernellAcademicLib)
+holds reusable teaching and presentation resources: Quarto styling, components,
+notebook helpers, and shared academic content.
+
+[Library website](https://fjhickernell.github.io/HickernellAcademicLib/)
+· [Consumer adoption guide](https://github.com/fjhickernell/HickernellAcademicLib/blob/main/docs/consumer-adoption.md)

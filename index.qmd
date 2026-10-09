@@ -1,0 +1,72 @@
+---
+title: ""
+pagetitle: Fred J. Hickernell — Applied Mathematics
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+::: {.hero-copy}
+# Fred J. Hickernell
+
+::: {.affiliation}
+Professor of Applied Mathematics\
+Illinois Institute of Technology
+:::
+
+::: {.lead-copy}
+I study how to make computational answers more efficient and more reliable,
+especially when a problem involves many variables or uncertain inputs.
+My work connects Monte Carlo and quasi-Monte Carlo methods, numerical
+approximation, and scientific software.
+:::
+
+::: {.profile-links}
+[Email](mailto:hickernell@illinoistech.edu)
+[Google Scholar](https://scholar.google.com/citations?user=dJbMJG8AAAAJ&hl=en)
+[GitHub](https://github.com/fjhickernell)
+[Illinois Tech profile](https://www.iit.edu/directory/people/fred-hickernell)
+:::
+:::
+::: {.portrait}
+![](classlib/classlib/quarto/assets/images/fredplaidshirtcropped.jpg){alt="Fred J. Hickernell"}
+:::
+:::
+
+::: {.section-links}
+::: {}
+## [Research & publications](research/index.qmd)
+Sampling, approximation, error assessment, and the complexity of computation.
+[Browse publications by year](publications/index.qmd).
+
+## [Teaching](teaching/index.qmd)
+Current and recent courses, with links to lecture notes and computational materials.
+:::
+::: {}
+## [Talks](talks/index.qmd)
+Presentations connecting mathematical ideas with computational practice.
+
+## [Software](software/index.qmd)
+Open-source tools for quasi-Monte Carlo methods, integration, and academic work.
+:::
+:::
+
+## [Education & Experience](education-experience/index.qmd) {#education-experience}
+
+Degrees and academic and administrative appointments.
+
+## Bio {#bio}
+
+::: {.bio}
+Much of my career has been at Hong Kong Baptist University and Illinois
+Institute of Technology.
+
+Family is an important part of my life. I am a follower of Christ and a member
+of [Wheaton Chinese Alliance Church](https://www.wcac-cma.org/). My years living
+in Hong Kong are also part of my story.
+:::
+
+## Explore
+
+- [Where Quasi-Monte Carlo Theory and Practice Meet — MCQMC 2026](https://fjhickernell.github.io/MCQMC26/)
+- [QMCPy: quasi-Monte Carlo software in Python](https://qmcpy.org/)

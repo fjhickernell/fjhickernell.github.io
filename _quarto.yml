@@ -1,0 +1,71 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - education-experience/index.qmd
+    - research/index.qmd
+    - publications/index.qmd
+    - teaching/index.qmd
+    - talks/index.qmd
+    - software/index.qmd
+    - 404.qmd
+  resources:
+    - assets/**
+    - data/publications.json
+    - data/publications.bib
+    - classlib/classlib/quarto/assets/images/fredplaidshirtcropped.jpg
+    - cv/index.html
+    - .nojekyll
+  pre-render:
+    - python3 tools/render_publications.py
+
+format:
+  html:
+    theme:
+      - cosmo
+      - site.scss
+    css:
+      - classlib/classlib/quarto/website/hickernell-website.css
+    lang: en
+    toc: false
+    page-layout: full
+    toc-location: right
+    toc-depth: 2
+    grid:
+      body-width: 1000px
+      sidebar-width: 180px
+      margin-width: 180px
+    link-external-newwindow: false
+
+website:
+  title: Fred J. Hickernell
+  site-url: https://fjhickernell.github.io
+  description: Applied mathematics, Monte Carlo and quasi-Monte Carlo methods, teaching, and scientific software.
+  navbar:
+    background: light
+    collapse-below: xl
+    left:
+      - href: index.qmd
+        text: Home
+      - href: education-experience/index.qmd
+        text: Education & Experience
+      - href: research/index.qmd
+        text: Research
+      - href: publications/index.qmd
+        text: Publications
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: talks/index.qmd
+        text: Talks
+      - href: software/index.qmd
+        text: Software
+    right:
+      - icon: github
+        href: https://github.com/fjhickernell
+        aria-label: Fred Hickernell on GitHub
+  search:
+    type: overlay
+  page-footer:
+    left: © 2026 Fred J. Hickernell
+    right: '[Illinois Institute of Technology](https://www.iit.edu/directory/people/fred-hickernell)'

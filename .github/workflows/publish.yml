@@ -1,0 +1,61 @@
+name: Build and publish Quarto website
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          submodules: recursive
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: '1.10.19'
+      - name: Test bibliography importer
+        run: |
+          python3 -m pip install -r requirements-import.txt
+          python3 -m unittest discover -s tools -p "test_*.py"
+      - name: Check shared guidance and publication data
+        run: |
+          python3 classlib/tools/bootstrap_consumer.py check .
+          python3 tools/check_catalog.py
+      - name: Render website
+        run: |
+          python3 tools/render_publications.py
+          quarto render
+      - name: Verify rendered local links
+        run: python3 tools/check_site.py
+      - uses: actions/upload-pages-artifact@v4
+        if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
+        with:
+          path: _site
+
+  deploy:
+    if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

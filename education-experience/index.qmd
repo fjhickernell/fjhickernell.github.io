@@ -1,0 +1,43 @@
+---
+title: Education & Experience
+description: Fred Hickernell's degrees and academic and administrative appointments.
+---
+
+<!-- Degrees and appointments transcribed from FredJHickernellCV2025July.tex.
+Graduation years and the current professorship are corroborated by
+https://www.iit.edu/directory/people/fred-hickernell.
+Fred confirmed Vice Provost for Research as 2018–2024 on October 9, 2026;
+the appointment ended before January 2025. The March 2026 brief CV's
+2018–present entry is outdated and must not override this correction.
+Add degree entries as: degree, institution, graduation year.
+Add experience entries as: role, institution or organization, date range.
+Omit dates or details that have not been confirmed. -->
+
+## Education
+
+- **PhD in Mathematics**, Massachusetts Institute of Technology, 1981
+- **BA in Mathematics and Physics, summa cum laude**, Pomona College, 1977
+
+## Experience {.career-history}
+
+### Illinois Institute of Technology
+
+- **Professor of Applied Mathematics**, 2005–present
+- **Vice Provost for Research**, 2018–2024
+- **Director of the Center for Interdisciplinary Scientific Computation**, 2017–2018
+- **Chair of Applied Mathematics**, 2005–2017
+
+### Hong Kong Baptist University and Hong Kong Baptist College
+
+- **Professor of Mathematics**, Hong Kong Baptist University, 1999–2005
+- **Associate Professor of Mathematics**, Hong Kong Baptist University, 1995–1999
+- **Head of Mathematics**, Hong Kong Baptist University, 1989–2002
+- **Senior Lecturer in Mathematics**, Hong Kong Baptist College, 1987–1995
+- **Lecturer in Mathematics**, Hong Kong Baptist College, 1985–1987
+
+### University of Southern California
+
+- **Assistant Professor of Mathematics**, 1981–1985
+
+<!-- Add additional roles under their institution, or add another institution
+subsection as needed. Keep current appointments first, then most recent first. -->

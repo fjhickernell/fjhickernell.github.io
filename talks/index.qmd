@@ -1,0 +1,24 @@
+---
+title: Talks
+description: Selected research talks and slides by Fred Hickernell.
+---
+
+These presentations explore the connection between numerical theory,
+sampling methods, and practical computation.
+
+## MCQMC 2026
+
+Edinburgh, June 8–12, 2026.
+
+- [Where Quasi-Monte Carlo Theory and Practice Meet](https://fjhickernell.github.io/MCQMC26/slides/Plenary_MCQMC2026.html) — plenary talk
+- [Good Lattice and Kronecker Sequences for Arbitrary Sample Sizes](https://fjhickernell.github.io/MCQMC26/slides/SpecialSession_MCQMC2026.html) — special session talk
+- [Conference materials](https://fjhickernell.github.io/MCQMC26/)
+
+## SIAM UQ 2026
+
+[Low Discrepancy Drop-In Replacements for IID](https://fjhickernell.github.io/SIAMUQ26/)
+discusses low-discrepancy sequences for computations with flexible sample sizes.
+
+## Earlier presentations
+
+Additional slides are available on [Speaker Deck](https://speakerdeck.com/fjhickernell).

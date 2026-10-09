@@ -1,96 +1,106 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Fred J. Hickernell — Personal Website
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+Quarto source for https://fjhickernell.github.io. The root site is the curated
+professional home; individual course, talk, software, and library repositories
+retain their detailed content and independent publishing workflows.
 
-# Getting Started
+## Local development
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
-
-See more info at https://academicpages.github.io/
-
-## Running locally
-
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
-
-1. Clone the repository and made updates as detailed above.
-
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
-
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
-
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
-
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
-
-## Using Docker
-
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
-
-You can build and execute the container by running the following command in the repository:
+Initialize the recorded shared library, then render or preview:
 
 ```bash
-chmod -R 777 .
-docker compose up
+git submodule update --init --recursive
+python3 classlib/tools/bootstrap_consumer.py check .
+python3 tools/render_publications.py
+quarto render
+quarto preview --no-browser
 ```
 
-You should now be able to access the website from `localhost:4000`.
+For automatic rendering and browser refresh while editing, run the shared
+`quarto-site-live` command from this repository's root in Warp. Keep it running
+and use the local URL it prints. Stop it with Ctrl+C. Its logs are ignored.
 
-### Using the DevContainer in VS Code
+Generated HTML in `_site/` and the generated publication include are ignored. Normal rendering uses only Quarto and
+Python’s standard library; bibliography import dependencies are separate.
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development coontainer configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
+## Profile, education, and experience
 
-# Maintenance
+Edit `index.qmd` to update the homepage and short personal bio. The separate
+Education & Experience page is `education-experience/index.qmd`, linked from
+the homepage and navbar. It uses ordinary Markdown lists: add each degree with its institution and
+graduation year, and each role with its institution or organization and date
+range. Roles are grouped by institution. Keep current appointments first,
+then most recent first, and omit unconfirmed details. The initial entries
+come from Fred's July 2025 full CV; his Vice Provost appointment ended in 2024,
+as he confirmed. Use degree abbreviations without periods, such as PhD and BA.
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+The CV source remains in the project's OneDrive Curriculum_Vitae folder.
+Update the website's curated entries when that source changes; the site does
+not copy or automatically publish the source folder.
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+## Publication catalog
 
-## Bugfixes and enhancements
+`data/publications.json` is the public structured catalog; `data/publications.bib`
+is its sanitized citation export. Both are generated snapshots. The authoritative
+source remains Fred’s own bibliography in the shared master bibliography
+folder, currently `FJHown26.bib`. When Fred adopts a newer annual file, pass
+that file to `--source`; do not select a file merely by its modification date.
+The import summary records the actual source filename and content hash.
+Edit bibliographic details in that source, then refresh these snapshots.
+Do not maintain a second copy of the citation details in the website exports.
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+To refresh from that source:
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+```bash
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements-import.txt
+.venv/bin/python tools/import_publications.py --source ~/Documents/SharedConfigs/texmf/bibtex/bib/MasterBibFiles/FJHown26.bib
+python3 tools/render_publications.py
+quarto render
+```
 
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+The importer expands author macros, resolves cross-references, selects records
+authored or edited by Hickernell, and excludes private preparation records.
+Public preprints and forthcoming publications carry explicit status. It keeps
+only public bibliographic fields, excluding BibDesk attachments, local paths,
+free-form notes, and private timestamps. Source files are never modified.
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+Keep website inclusion decisions in `data/publication-exclusions.json`, keyed
+by BibTeX ID with a short reason. Talks, tutorial notebooks, recordings, blogs,
+and documentation websites are excluded from the publication catalog; scholarly
+conference papers and citable software releases remain. Check new records
+during each refresh. These decisions survive changes to the master bibliography.
+Live preview renders website changes but does not automatically reimport the
+master bibliography outside this repository; run the import command above
+after updating that source.
+
+Add topic classifications in `data/publication-topics.json`, keyed by BibTeX ID:
+
+```json
+{"Hic98a": ["Quasi-Monte Carlo", "Discrepancy"]}
+```
+
+Use actual IDs from the catalog. Topics survive refreshes and appear as a filter
+when present. Do not infer or bulk-assign topics without reviewing them.
+
+`data/import-summary.json` records coverage and quality checks. A snapshot is
+only as current as its source bibliography; Google Scholar and new public
+preprints can be checked later for additions. Do not claim this is exhaustive.
+
+## GitHub Pages
+
+The publishing workflow builds pull requests and deploys pushes to `master`.
+It renders with pinned Quarto 1.10.19, initializes `classlib`, validates the
+consumer contract and public catalog, and uploads only `_site/`.
+
+Repository **Settings → Pages → Source** uses **GitHub Actions**. Fred approved
+the first Quarto launch on October 9, 2026. Future updates publish when reviewed
+source is pushed to `master`; verify the workflow and deployed output after
+publication. The root URL stays the same. Course and talk project-site URLs stay
+in their owning repos.
+
+The AcademicPages/Jekyll template and its sample records remain recoverable in
+Git history. Its license notice is retained. `/publications/`, `/teaching/`,
+and `/talks/` retain their established paths; `/cv/` points to Education & Experience.
+
+See `PLAN.md` for scope and `notes/NEXT.md` for immediate next work.

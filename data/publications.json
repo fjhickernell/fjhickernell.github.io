@@ -1,0 +1,5487 @@
+[
+  {
+    "URL": "https://doi.org/10.48550/arXiv.2504.18677",
+    "author": [
+      {
+        "family": "Jain",
+        "given": "A."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Owen",
+        "given": "A. B."
+      },
+      {
+        "family": "Sorokin",
+        "given": "A. G."
+      }
+    ],
+    "container-title": "Inf. Inference",
+    "id": "JaiEtal26",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "title": "Empirical Bernstein and betting confidence intervals for randomized quasi-Monte Carlo",
+    "type": "article-journal",
+    "year": 2026,
+    "year_label": "2026",
+    "category": "Journal articles",
+    "status": "Forthcoming",
+    "topics": []
+  },
+  {
+    "DOI": "10.21105/joss.09705",
+    "author": [
+      {
+        "family": "Sorokin",
+        "given": "A. G."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Choi",
+        "given": "S.-C. T."
+      },
+      {
+        "family": "Jagadeeswaran",
+        "given": "R."
+      },
+      {
+        "family": "Robbe",
+        "given": "P."
+      },
+      {
+        "family": "Jain",
+        "given": "A."
+      }
+    ],
+    "container-title": "J. Open Source Software",
+    "id": "SorEtal2026a",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "title": "QMCPy: A Python framework for (quasi-)Monte Carlo algorithms",
+    "type": "article-journal",
+    "volume": "11",
+    "year": 2026,
+    "year_label": "2026",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.5281/zenodo.20297697",
+    "URL": "https://qmcsoftware.github.io/QMCSoftware/",
+    "author": [
+      {
+        "family": "Choi",
+        "given": "S.-C. T."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Jagadeeswaran",
+        "given": "R."
+      },
+      {
+        "family": "Jain",
+        "given": "A."
+      },
+      {
+        "family": "Sorokin",
+        "given": "A."
+      }
+    ],
+    "id": "QMCPy2026a",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "title": "QMCPy: A quasi-Monte Carlo Python library (version 2.3)",
+    "type": "webpage",
+    "year": 2026,
+    "year_label": "2026",
+    "category": "Software",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "URL": "https://doi.org/10.48550/arXiv.2502.03644",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Kirk",
+        "given": "N."
+      },
+      {
+        "family": "Sorokin",
+        "given": "A. G."
+      }
+    ],
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods: MCQMC, Waterloo, Canada, August 2024",
+    "editor": [
+      {
+        "family": "Lemieux",
+        "given": "C."
+      },
+      {
+        "family": "Feng",
+        "given": "B."
+      }
+    ],
+    "id": "HicKirSor26a",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "publisher": "Springer, Cham",
+    "title": "Quasi-Monte Carlo methods: What, why, and how?",
+    "type": "paper-conference",
+    "year": 2026,
+    "year_label": "2026",
+    "category": "Chapters & conference papers",
+    "status": "Forthcoming",
+    "topics": []
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.24604",
+    "author": [
+      {
+        "family": "Sorokin",
+        "given": "A. G."
+      },
+      {
+        "family": "Robbe",
+        "given": "P."
+      },
+      {
+        "family": "Geraci",
+        "given": "G."
+      },
+      {
+        "family": "Eldred",
+        "given": "M. S."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "id": "SorEtal26",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "title": "Fast bayesian multilevel quasi-Monte Carlo",
+    "type": "",
+    "year": 2025,
+    "year_label": "2025+",
+    "category": "Other publications",
+    "status": "Public preprint",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Sorokin",
+        "given": "A. G."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Robbe",
+        "given": "P."
+      }
+    ],
+    "container-title": "Proc. Mach. Learn. res.",
+    "editor": [
+      {
+        "family": "Kanagawa",
+        "given": "M."
+      },
+      {
+        "family": "Cockayne",
+        "given": "J."
+      },
+      {
+        "family": "Gessner",
+        "given": "A."
+      },
+      {
+        "family": "Hennig",
+        "given": "P."
+      }
+    ],
+    "id": "SorHicRob25a",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "title": "Fast Gaussian process regression for high dimensional functions with derivative information",
+    "type": "paper-conference",
+    "year": 2025,
+    "year_label": "2025",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.5281/zenodo.3964489",
+    "URL": "https://qmcsoftware.github.io/QMCSoftware/",
+    "author": [
+      {
+        "family": "Choi",
+        "given": "S.-C. T."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Jagadeeswaran",
+        "given": "R."
+      },
+      {
+        "family": "McCourt",
+        "given": "M."
+      },
+      {
+        "family": "Sorokin",
+        "given": "A."
+      }
+    ],
+    "id": "QMCPy2020a",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "title": "QMCPy: A quasi-Monte Carlo Python library (versions 1.0–2.0)",
+    "type": "webpage",
+    "year": 2025,
+    "year_label": "2025",
+    "category": "Software",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1016/j.jco.2024.101856",
+    "author": [
+      {
+        "family": "Emenike",
+        "given": "O."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Kritzer",
+        "given": "P."
+      }
+    ],
+    "container-title": "J. Complexity",
+    "id": "EmeEtal24a",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "101856",
+    "title": "A unified treatment of tractability for approximation problems defined on Hilbert spaces",
+    "type": "article-journal",
+    "volume": "84",
+    "year": 2024,
+    "year_label": "2024",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1007/978-3-031-59762-6_9",
+    "author": [
+      {
+        "family": "Choi",
+        "given": "S.-C. T."
+      },
+      {
+        "family": "Ding",
+        "given": "Y."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Jagadeeswaran",
+        "given": "R."
+      },
+      {
+        "family": "Sorokin",
+        "given": "A. G."
+      }
+    ],
+    "collection-title": "Springer proceedings in mathematics and statistics",
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods: MCQMC, Linz, austria, July 2022",
+    "editor": [
+      {
+        "family": "Hinrichs",
+        "given": "A."
+      },
+      {
+        "family": "Kritzer",
+        "given": "P."
+      },
+      {
+        "family": "Pillichshammer",
+        "given": "F."
+      }
+    ],
+    "id": "ChoEtal24a",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "209-222",
+    "publisher": "Springer, Cham",
+    "title": "Challenges in developing great quasi-Monte Carlo software",
+    "type": "paper-conference",
+    "year": 2024,
+    "year_label": "2024",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1016/j.advwatres.2024.104836",
+    "author": [
+      {
+        "family": "Sorokin",
+        "given": "A. G."
+      },
+      {
+        "family": "Pachalieva",
+        "given": "A."
+      },
+      {
+        "family": "O’Malley",
+        "given": "D."
+      },
+      {
+        "family": "Hyman",
+        "given": "J. M."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Hengartner",
+        "given": "N. W."
+      }
+    ],
+    "container-title": "Adv. Water Resources",
+    "id": "SorEtal24a",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "104836",
+    "title": "Computationally efficient and error aware surrogate construction for numerical solutions of subsurface flow through porous media",
+    "type": "article-journal",
+    "volume": "193",
+    "year": 2024,
+    "year_label": "2024",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1007/978-3-031-10193-9_15",
+    "author": [
+      {
+        "family": "Jagadeeswaran",
+        "given": "R."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Advances in modeling and simulation: Festschrift in honour of Pierre L’Ecuyer",
+    "editor": [
+      {
+        "family": "Botev",
+        "given": "Z."
+      },
+      {
+        "family": "Keller",
+        "given": "A."
+      },
+      {
+        "family": "Lemieux",
+        "given": "C."
+      },
+      {
+        "family": "Tuffin",
+        "given": "B."
+      }
+    ],
+    "id": "JagHic22a",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "301-318",
+    "publisher": "Springer, Cham",
+    "title": "Fast automatic Bayesian cubature using Sobol’ sampling",
+    "type": "chapter",
+    "year": 2022,
+    "year_label": "2022",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.5334/jors.381",
+    "author": [
+      {
+        "family": "Tong",
+        "given": "X."
+      },
+      {
+        "family": "Choi",
+        "given": "S.-C. T."
+      },
+      {
+        "family": "Ding",
+        "given": "Y."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Jiang",
+        "given": "L."
+      },
+      {
+        "dropping-particle": " Ll.",
+        "family": "A. Jiménez Rugama"
+      },
+      {
+        "family": "Jagadeeswaran",
+        "given": "R."
+      },
+      {
+        "family": "Zhang",
+        "given": "K."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Zhou",
+        "given": "X."
+      }
+    ],
+    "container-title": "J. Open Res. Software",
+    "id": "TonEtAl22a",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "7",
+    "title": "Guaranteed automatic integration library (GAIL): An open-source MATLAB library for function approximation, minimization, and integration",
+    "type": "article-journal",
+    "volume": "10",
+    "year": 2022,
+    "year_label": "2022",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "URL": "https://arxiv.org/abs/2102.07833",
+    "author": [
+      {
+        "family": "Choi",
+        "given": "S.-C. T."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Jagadeeswaran",
+        "given": "R."
+      },
+      {
+        "family": "McCourt",
+        "given": "M. J."
+      },
+      {
+        "family": "Sorokin",
+        "given": "A. G."
+      }
+    ],
+    "collection-title": "Springer proceedings in mathematics and statistics",
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods: MCQMC, Oxford, england, August 2020",
+    "editor": [
+      {
+        "family": "Keller",
+        "given": "A."
+      }
+    ],
+    "id": "ChoEtal22a",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "23-50",
+    "publisher": "Springer, Cham",
+    "title": "Quasi-Monte Carlo software",
+    "type": "paper-conference",
+    "year": 2022,
+    "year_label": "2022",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.5281/zenodo.4018189",
+    "URL": "http://gailgithub.github.io/GAIL_Dev/",
+    "author": [
+      {
+        "family": "Choi",
+        "given": "S.-C. T."
+      },
+      {
+        "family": "Ding",
+        "given": "Y."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Jiang",
+        "given": "L."
+      },
+      {
+        "dropping-particle": " Ll.",
+        "family": "A. Jiménez Rugama"
+      },
+      {
+        "family": "Li",
+        "given": "D."
+      },
+      {
+        "family": "Jagadeeswaran",
+        "given": "R."
+      },
+      {
+        "family": "Tong",
+        "given": "X."
+      },
+      {
+        "family": "Zhang",
+        "given": "K."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Zhou",
+        "given": "X."
+      }
+    ],
+    "id": "ChoEtal21a",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "GAIL: Guaranteed Automatic Integration Library (versions 1.0–2.3.2)",
+    "type": "",
+    "year": 2021,
+    "year_label": "2021",
+    "category": "Software",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1515/9783110635461-007",
+    "author": [
+      {
+        "family": "Ding",
+        "given": "Y."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Kritzer",
+        "given": "P."
+      },
+      {
+        "family": "Mak",
+        "given": "S."
+      }
+    ],
+    "container-title": "Multivariate algorithms and information-based complexity",
+    "editor": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Kritzer",
+        "given": "P."
+      }
+    ],
+    "id": "DinEtal20a",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "109-145",
+    "publisher": "DeGruyter",
+    "publisher-place": "Berlin/Boston",
+    "title": "Adaptive approximation for multivariate linear problems with inputs lying in a cone",
+    "type": "chapter",
+    "year": 2020,
+    "year_label": "2020",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1007/978-3-030-43465-6_8",
+    "author": [
+      {
+        "family": "Ding",
+        "given": "Y."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "dropping-particle": " Ll.",
+        "family": "A. Jiménez Rugama"
+      }
+    ],
+    "collection-title": "Springer proceedings in mathematics and statistics",
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods: MCQMC, Rennes, france, July 2018",
+    "editor": [
+      {
+        "family": "L’Ecuyer",
+        "given": "P."
+      },
+      {
+        "family": "Tuffin",
+        "given": "B."
+      }
+    ],
+    "id": "DinHic20a",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "161-181",
+    "publisher": "Springer, Cham",
+    "title": "An adaptive algorithm employing continuous linear functionals",
+    "type": "paper-conference",
+    "volume": "324",
+    "year": 2020,
+    "year_label": "2020",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Kritzer",
+        "given": "P."
+      },
+      {
+        "family": "Woźniakowski",
+        "given": "H."
+      }
+    ],
+    "collection-title": "MATRIX book series",
+    "container-title": "2018 MATRIX annals",
+    "id": "HicKriWoz19a",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "61-78",
+    "publisher": "Springer Nature Switzerland AG",
+    "title": "Exponential tractability of linear tensor product problems",
+    "type": "chapter",
+    "year": 2020,
+    "year_label": "2020",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.5281/zenodo.4018189",
+    "URL": "http://gailgithub.github.io/GAIL_Dev/",
+    "author": [
+      {
+        "family": "Choi",
+        "given": "S.-C. T."
+      },
+      {
+        "family": "Ding",
+        "given": "Y."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Jiang",
+        "given": "L."
+      },
+      {
+        "dropping-particle": " Ll.",
+        "family": "A. Jiménez Rugama"
+      },
+      {
+        "family": "Li",
+        "given": "D."
+      },
+      {
+        "family": "Jagadeeswaran",
+        "given": "R."
+      },
+      {
+        "family": "Tong",
+        "given": "X."
+      },
+      {
+        "family": "Zhang",
+        "given": "K."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Zhou",
+        "given": "X."
+      }
+    ],
+    "id": "ChoEtal20a",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "GAIL: Guaranteed Automatic Integration Library (versions 1.0–2.3.1)",
+    "type": "",
+    "year": 2020,
+    "year_label": "2020",
+    "category": "Software",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1007/978-3-030-46161-4_5",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Y."
+      },
+      {
+        "family": "Kang",
+        "given": "L."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Contemporary experimental design, multivariate analysis and data mining (festschrift in honour of professor kai-Tai fang)",
+    "editor": [
+      {
+        "family": "Fan",
+        "given": "J."
+      },
+      {
+        "family": "Pan",
+        "given": "J."
+      }
+    ],
+    "id": "LiKanHic20a",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "69-92",
+    "publisher": "Springer Nature Switzerland AG",
+    "title": "Is a transformed low discrepancy design also low discrepancy?",
+    "type": "chapter",
+    "year": 2020,
+    "year_label": "2020",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "editor": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Kritzer",
+        "given": "P."
+      }
+    ],
+    "id": "HicKri20a",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "DeGruyter",
+    "publisher-place": "Berlin/Boston",
+    "title": "Multivariate algorithms and information-based complexity",
+    "type": "book",
+    "year": 2020,
+    "year_label": "2020",
+    "category": "Edited volumes",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1214/18-STS660",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Jagadeeswaran",
+        "given": "R."
+      }
+    ],
+    "container-title": "Statist. Sci.",
+    "id": "HicJag18b",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "23-28",
+    "title": "Comment on “Probabilistic integration: A role in statistical computation?”",
+    "type": "article-journal",
+    "volume": "34",
+    "year": 2019,
+    "year_label": "2019",
+    "category": "Other publications",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1007/s11222-019-09895-9",
+    "author": [
+      {
+        "family": "Jagadeeswaran",
+        "given": "R."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Stat. Comput.",
+    "id": "RatHic19a",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1215-1229",
+    "title": "Fast automatic Bayesian cubature using lattice sampling",
+    "type": "article-journal",
+    "volume": "29",
+    "year": 2019,
+    "year_label": "2019",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "URL": "http://gailgithub.github.io/GAIL_Dev/",
+    "author": [
+      {
+        "family": "Choi",
+        "given": "S.-C. T."
+      },
+      {
+        "family": "Ding",
+        "given": "Y."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Jiang",
+        "given": "L."
+      },
+      {
+        "dropping-particle": " Ll.",
+        "family": "A. Jiménez Rugama"
+      },
+      {
+        "family": "Li",
+        "given": "D."
+      },
+      {
+        "family": "Jagadeeswaran",
+        "given": "R."
+      },
+      {
+        "family": "Tong",
+        "given": "X."
+      },
+      {
+        "family": "Zhang",
+        "given": "K."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Zhou",
+        "given": "X."
+      }
+    ],
+    "id": "ChoEtal19a",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "title": "GAIL: Guaranteed Automatic Integration Library (versions 1.0–2.3)",
+    "type": "",
+    "year": 2019,
+    "year_label": "2019",
+    "category": "Software",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1007/978-3-319-72456-0",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "dropping-particle": " Ll.",
+        "family": "A. Jiménez Rugama"
+      },
+      {
+        "family": "Li",
+        "given": "D."
+      }
+    ],
+    "container-title": "Contemporary computational mathematics — a celebration of the 80th birthday of Ian Sloan",
+    "editor": [
+      {
+        "family": "Dick",
+        "given": "J."
+      },
+      {
+        "family": "Kuo",
+        "given": "F. Y."
+      },
+      {
+        "family": "Woźniakowski",
+        "given": "H."
+      }
+    ],
+    "id": "HicEtal17a",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "597-619",
+    "publisher": "Springer-Verlag, Cham",
+    "title": "Adaptive quasi-Monte Carlo methods for cubature",
+    "type": "chapter",
+    "year": 2018,
+    "year_label": "2018",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1002/9781118445112.stat08035",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Choi",
+        "given": "S.-C. T."
+      },
+      {
+        "family": "Jiang",
+        "given": "L."
+      },
+      {
+        "dropping-particle": " Ll.",
+        "family": "A. Jiménez Rugama"
+      }
+    ],
+    "container-title": "Wiley StatsRef-statistics reference online",
+    "editor": [
+      {
+        "family": "Davidian",
+        "given": "M."
+      },
+      {
+        "family": "Everitt",
+        "given": "B."
+      },
+      {
+        "family": "Kenett",
+        "given": "R. S."
+      },
+      {
+        "family": "Molenberghs",
+        "given": "G."
+      },
+      {
+        "family": "Piegorsch",
+        "given": "W."
+      },
+      {
+        "family": "Ruggeri",
+        "given": "F."
+      }
+    ],
+    "id": "HicEtal18a",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "John Wiley & Sons Ltd.",
+    "title": "Monte Carlo simulation, automatic stopping criteria for",
+    "type": "chapter",
+    "year": 2018,
+    "year_label": "2018",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1007/978-3-319-91436-7",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "collection-title": "Springer proceedings in mathematics and statistics",
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods: MCQMC, Stanford, USA, August 2016",
+    "editor": [
+      {
+        "family": "Glynn",
+        "given": "P."
+      },
+      {
+        "family": "Owen",
+        "given": "A."
+      }
+    ],
+    "id": "Hic17a",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "3-27",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "The trio identity for quasi-Monte Carlo error analysis",
+    "type": "paper-conference",
+    "year": 2018,
+    "year_label": "2018",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1016/j.crma.2016.11.013",
+    "author": [
+      {
+        "family": "Gilquin",
+        "given": "L."
+      },
+      {
+        "dropping-particle": " Ll.",
+        "family": "A. Jiménez Rugama"
+      },
+      {
+        "family": "Arnaud",
+        "given": "E."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Monod",
+        "given": "H."
+      },
+      {
+        "family": "Prieur",
+        "given": "C."
+      }
+    ],
+    "container-title": "C. R. Math. Acad. Sci. Paris",
+    "id": "GilEtal16a",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "10-14",
+    "title": "Iterative construction of replicated designs based on Sobol’ sequences",
+    "type": "article-journal",
+    "volume": "355",
+    "year": 2017,
+    "year_label": "2017",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1016/j.jco.2016.11.005",
+    "URL": "https://arxiv.org/abs/1606.02766",
+    "author": [
+      {
+        "family": "Choi",
+        "given": "S.-C. T."
+      },
+      {
+        "family": "Ding",
+        "given": "Y."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Tong",
+        "given": "X."
+      }
+    ],
+    "container-title": "J. Complexity",
+    "id": "ChoEtal17a",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "17-33",
+    "title": "Local adaption for approximation and minimization of univariate functions",
+    "type": "article-journal",
+    "volume": "40",
+    "year": 2017,
+    "year_label": "2017",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "URL": "https://arxiv.org/abs/1411.1966",
+    "author": [
+      {
+        "dropping-particle": " Ll.",
+        "family": "A. Jiménez Rugama"
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "collection-title": "Springer proceedings in mathematics and statistics",
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods: MCQMC, Leuven, Belgium, April 2014",
+    "editor": [
+      {
+        "family": "Cools",
+        "given": "R."
+      },
+      {
+        "family": "Nuyens",
+        "given": "D."
+      }
+    ],
+    "id": "JimHic16a",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "407-422",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "Adaptive multidimensional integration based on rank-1 lattices",
+    "type": "paper-conference",
+    "volume": "163",
+    "year": 2016,
+    "year_label": "2016",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "URL": "https://arxiv.org/abs/1410.8615",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "dropping-particle": " Ll.",
+        "family": "A. Jiménez Rugama"
+      }
+    ],
+    "collection-title": "Springer proceedings in mathematics and statistics",
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods: MCQMC, Leuven, Belgium, April 2014",
+    "editor": [
+      {
+        "family": "Cools",
+        "given": "R."
+      },
+      {
+        "family": "Nuyens",
+        "given": "D."
+      }
+    ],
+    "id": "HicJim16a",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "367-383",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "Reliable adaptive cubature using digital sequences",
+    "type": "paper-conference",
+    "volume": "163",
+    "year": 2016,
+    "year_label": "2016",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "URL": "https://arxiv.org/abs/1411.0790",
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "X."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "collection-title": "Springer proceedings in mathematics and statistics",
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods: MCQMC, Leuven, Belgium, April 2014",
+    "editor": [
+      {
+        "family": "Cools",
+        "given": "R."
+      },
+      {
+        "family": "Nuyens",
+        "given": "D."
+      }
+    ],
+    "id": "ZhoHic15a",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "583-598",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "Tractability of the radial function approximation problem with kernels of a product form",
+    "type": "paper-conference",
+    "volume": "163",
+    "year": 2016,
+    "year_label": "2016",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "URL": "https://arxiv.org/abs/1503.06544",
+    "author": [
+      {
+        "family": "Choi",
+        "given": "Sou-Cheng T."
+      },
+      {
+        "family": "Ding",
+        "given": "Yuhan"
+      },
+      {
+        "family": "Hickernell",
+        "given": "Fred J."
+      },
+      {
+        "family": "Jiang",
+        "given": "Lan"
+      },
+      {
+        "family": "Jiménez Rugama",
+        "given": " Ll. A."
+      },
+      {
+        "family": "Tong",
+        "given": "Xin"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yizhi"
+      },
+      {
+        "family": "Zhou",
+        "given": "Xuan"
+      }
+    ],
+    "container-title": "arXiv:1503.06544",
+    "id": "Gail_ug",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "title": "GAIL—Guaranteed Automatic Integration Library in MATLAB: Documentation for version 2.1",
+    "type": "article-journal",
+    "year": 2015,
+    "year_label": "2015",
+    "category": "Journal articles",
+    "status": "Public preprint",
+    "topics": []
+  },
+  {
+    "DOI": "10.1016/j.acha.2014.03.007",
+    "author": [
+      {
+        "family": "Fasshauer",
+        "given": "G. E."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Ye",
+        "given": "Q."
+      }
+    ],
+    "container-title": "Appl. Comput. Harmon. Anal.",
+    "id": "FasHicYe13a",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "115-139",
+    "title": "Solving support vector machines in reproducing kernel Banach spaces with positive definite functions",
+    "type": "article-journal",
+    "volume": "38",
+    "year": 2015,
+    "year_label": "2015",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1016/j.jspi.2013.01.010",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Y."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "J. Statist. Plann. Inference",
+    "id": "HicLi12a",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "141-151",
+    "title": "Design of experiments for linear regression models when gradient information is available",
+    "type": "article-journal",
+    "volume": "144",
+    "year": 2014,
+    "year_label": "2014",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "URL": "https://arxiv.org/abs/1411.1151",
+    "author": [
+      {
+        "family": "Jiang",
+        "given": "L."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "id": "JiaHic16a",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "title": "Guaranteed conservative confidence intervals for means of Bernoulli random variables",
+    "type": "",
+    "year": 2014,
+    "year_label": "2014",
+    "category": "Other publications",
+    "status": "Public preprint",
+    "topics": []
+  },
+  {
+    "DOI": "10.1080/10511970.2014.893939",
+    "author": [
+      {
+        "family": "Berkaliev",
+        "given": "Z."
+      },
+      {
+        "family": "Devi",
+        "given": "S."
+      },
+      {
+        "family": "Fasshauer",
+        "given": "G. E."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Kartal",
+        "given": "O."
+      },
+      {
+        "family": "Li",
+        "given": "X."
+      },
+      {
+        "family": "McCray",
+        "given": "P."
+      },
+      {
+        "family": "Whitney",
+        "given": "S."
+      },
+      {
+        "family": "Zawojewski",
+        "given": "J. S."
+      }
+    ],
+    "container-title": "PRIMUS",
+    "id": "BerEtal14a",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "403-420",
+    "title": "Initiating a programmatic assessment report",
+    "type": "article-journal",
+    "volume": "24",
+    "year": 2014,
+    "year_label": "2014",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.3969/j.issn.1006-6330.2014.04.015",
+    "author": [
+      {
+        "family": "Zeng",
+        "given": "X. Y."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Comm. Appl. Math. Comput.",
+    "id": "ZenHic14a",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "502-509",
+    "title": "On Hamming distance matrix",
+    "type": "article-journal",
+    "volume": "28",
+    "year": 2014,
+    "year_label": "2014",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1016/j.jco.2013.09.002",
+    "author": [
+      {
+        "family": "Clancy",
+        "given": "N."
+      },
+      {
+        "family": "Ding",
+        "given": "Y."
+      },
+      {
+        "family": "Hamilton",
+        "given": "C."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      }
+    ],
+    "container-title": "J. Complexity",
+    "id": "HicEtal14b",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "21-45",
+    "title": "The cost of deterministic, adaptive, automatic algorithms: Cones, not balls",
+    "type": "article-journal",
+    "volume": "30",
+    "year": 2014,
+    "year_label": "2014",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "URL": "http://code.google.com/p/gail",
+    "author": [
+      {
+        "family": "Choi",
+        "given": "S.-C. T."
+      },
+      {
+        "family": "Ding",
+        "given": "Y."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Jiang",
+        "given": "L."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      }
+    ],
+    "id": "ChoEtal13a",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "title": "GAIL: Guaranteed Automatic Integration Library (version 1)",
+    "type": "",
+    "year": 2013,
+    "year_label": "2013",
+    "category": "Software",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1007/978-3-642-41095-6",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Jiang",
+        "given": "L."
+      },
+      {
+        "family": "Liu",
+        "given": "Y."
+      },
+      {
+        "family": "Owen",
+        "given": "A. B."
+      }
+    ],
+    "collection-title": "Springer proceedings in mathematics and statistics",
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods 2012",
+    "editor": [
+      {
+        "family": "Dick",
+        "given": "J."
+      },
+      {
+        "family": "Kuo",
+        "given": "F. Y."
+      },
+      {
+        "family": "Peters",
+        "given": "G. W."
+      },
+      {
+        "family": "Sloan",
+        "given": "I. H."
+      }
+    ],
+    "id": "HicEtal14a",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "105-128",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "Guaranteed conservative fixed width confidence intervals via Monte Carlo sampling",
+    "type": "paper-conference",
+    "volume": "65",
+    "year": 2013,
+    "year_label": "2013",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1016/j.acha.2012.03.009",
+    "author": [
+      {
+        "family": "Song",
+        "given": "G."
+      },
+      {
+        "family": "Zhang",
+        "given": "H."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Appl. Comput. Harmon. Anal.",
+    "id": "SonZhaHic12a",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "96-116",
+    "title": "Reproducing kernel Banach spaces with the $\\ell^1$ norm",
+    "type": "article-journal",
+    "volume": "34",
+    "year": 2013,
+    "year_label": "2013",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Fasshauer",
+        "given": "G. E."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Woźniakowski",
+        "given": "H."
+      }
+    ],
+    "collection-title": "Springer proceedings in mathematics and statistics",
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods 2010",
+    "editor": [
+      {
+        "family": "Plaskota",
+        "given": "L."
+      },
+      {
+        "family": "Woźniakowski",
+        "given": "H."
+      }
+    ],
+    "id": "FasHicWoz12b",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "329-344",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "Average case approximation: Convergence and tractability of Gaussian kernels",
+    "type": "paper-conference",
+    "volume": "23",
+    "year": 2012,
+    "year_label": "2012",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1007/s10444-011-9192-5",
+    "author": [
+      {
+        "family": "Song",
+        "given": "G."
+      },
+      {
+        "family": "Riddle",
+        "given": "J."
+      },
+      {
+        "family": "Fasshauer",
+        "given": "G. E."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Adv. Comput. Math.",
+    "id": "SonRidFasHic10a",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "485-501",
+    "title": "Multivariate interpolation with increasingly flat radial basis functions of finite smoothness",
+    "type": "article-journal",
+    "volume": "36",
+    "year": 2012,
+    "year_label": "2012",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1137/10080138X",
+    "author": [
+      {
+        "family": "Fasshauer",
+        "given": "G. E."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Woźniakowski",
+        "given": "H."
+      }
+    ],
+    "container-title": "SIAM J. Numer. Anal.",
+    "id": "FasHicWoz12a",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "247-271",
+    "title": "On dimension-independent rates of convergence for function approximation with Gaussian kernels",
+    "type": "article-journal",
+    "volume": "50",
+    "year": 2012,
+    "year_label": "2012",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1007/s11075-011-9482-5",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Kritzer",
+        "given": "P."
+      },
+      {
+        "family": "Kuo",
+        "given": "F. Y."
+      },
+      {
+        "family": "Nuyens",
+        "given": "D."
+      }
+    ],
+    "container-title": "Numer. Algorithms",
+    "id": "HicEtal10a",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "161-183",
+    "title": "Weighted compound integration rules with higher order convergence for all $N$",
+    "type": "article-journal",
+    "volume": "59",
+    "year": 2012,
+    "year_label": "2012",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1016/j.jco.2010.08.001",
+    "author": [
+      {
+        "family": "Niu",
+        "given": "B."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Müller-Gronbach",
+        "given": "T."
+      },
+      {
+        "family": "Ritter",
+        "given": "K."
+      }
+    ],
+    "container-title": "J. Complexity",
+    "id": "NiuHic09b",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "331-351",
+    "title": "Deterministic multi-level algorithms for infinite-dimensional integration on $\\mathbb{R}^{\\mathbb{N}}$",
+    "type": "article-journal",
+    "volume": "27",
+    "year": 2011,
+    "year_label": "2011",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "X."
+      },
+      {
+        "family": "Yue",
+        "given": "R.-X."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Statist. Sinica",
+    "id": "LiuYueHic09a",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "421-432",
+    "title": "Optimality criteria for multiresponse linear models based on predictive ellipsoids",
+    "type": "article-journal",
+    "volume": "21",
+    "year": 2011,
+    "year_label": "2011",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1615/Int.J.UncertaintyQuantification.2011002790",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Y."
+      },
+      {
+        "family": "Anitescu",
+        "given": "M."
+      },
+      {
+        "family": "Roderick",
+        "given": "O."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Internat. J. Uncertain. Quant.",
+    "id": "LiEtal11a",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "297-320",
+    "title": "Orthogonal bases for polynomial regression with derivative information in uncertainty quantification",
+    "type": "article-journal",
+    "volume": "1",
+    "year": 2011,
+    "year_label": "2011",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Niu",
+        "given": "B."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods 2008",
+    "editor": [
+      {
+        "family": "L’Ecuyer",
+        "given": "P."
+      },
+      {
+        "family": "Owen",
+        "given": "A."
+      }
+    ],
+    "id": "NiuHic09a",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "545-560",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "Monte Carlo simulation of stochastic integrals when the cost of function evaluation is dimension dependent",
+    "type": "paper-conference",
+    "year": 2010,
+    "year_label": "2010",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1016/j.jco.2010.02.002",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Müller-Gronbach",
+        "given": "T."
+      },
+      {
+        "family": "Niu",
+        "given": "B."
+      },
+      {
+        "family": "Ritter",
+        "given": "K."
+      }
+    ],
+    "container-title": "J. Complexity",
+    "id": "HicMGRitNiu09a",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "229-254",
+    "title": "Multi-level Monte Carlo algorithms for infinite-dimensional integration on $\\mathbb{R}^\\mathbb{N}$",
+    "type": "article-journal",
+    "volume": "26",
+    "year": 2010,
+    "year_label": "2010",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1007/s00041-010-9153-2",
+    "author": [
+      {
+        "family": "Damelin",
+        "given": "S."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Ragozin",
+        "given": "D. L."
+      },
+      {
+        "family": "Zeng",
+        "given": "X. Y."
+      }
+    ],
+    "container-title": "J. Fourier Anal. Appl.",
+    "id": "DamHicZen07a",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "813-839",
+    "title": "On energy, discrepancy and group invariant measures on measurable subsets of Euclidean space",
+    "type": "article-journal",
+    "volume": "16",
+    "year": 2010,
+    "year_label": "2010",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1090/S0025-5718-09-02202-9",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "K. I."
+      },
+      {
+        "family": "Dick",
+        "given": "J."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Math. Comp.",
+    "id": "DicHicLiu07a",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "1573-1591",
+    "title": "A multivariate fast discrete Walsh transform with an application to function interpolation",
+    "type": "article-journal",
+    "volume": "78",
+    "year": 2009,
+    "year_label": "2009",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1016/j.cam.2008.05.024",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Yang",
+        "given": "S."
+      }
+    ],
+    "container-title": "J. Comput. Appl. Math.",
+    "id": "HicYan09b",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "433-443",
+    "title": "Simplified analytical expressions for numerical differentiation via cycle index",
+    "type": "article-journal",
+    "volume": "224",
+    "year": 2009,
+    "year_label": "2009",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1007/s00365-009-9072-0",
+    "author": [
+      {
+        "family": "Zeng",
+        "given": "X. Y."
+      },
+      {
+        "family": "Kritzer",
+        "given": "P."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Constr. Approx.",
+    "id": "ZenKriHic07a",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "529-555",
+    "title": "Spline methods using integration lattices and digital nets",
+    "type": "article-journal",
+    "volume": "30",
+    "year": 2009,
+    "year_label": "2009",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1007/s11425-009-0171-y",
+    "author": [
+      {
+        "family": "Ai",
+        "given": "M."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Sci. China Ser. A",
+    "id": "AiHic05",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "2309-2320",
+    "title": "Universal optimality of net and lattice designs",
+    "type": "article-journal",
+    "volume": "52",
+    "year": 2009,
+    "year_label": "2009",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Dick",
+        "given": "J."
+      }
+    ],
+    "container-title": "Int. J. Numer. Anal. Model.",
+    "id": "HeiHic02a",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "167-189",
+    "title": "An algorithm-driven approach to error analysis for multidimensional integration",
+    "type": "article-journal",
+    "volume": "5",
+    "year": 2008,
+    "year_label": "2008",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Yang",
+        "given": "S."
+      }
+    ],
+    "container-title": "Int. J. Numer. Anal. Model.",
+    "id": "HicYan07a",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "457-465",
+    "title": "Explicit Hermite interpolation polynomials via the cycle index with applications",
+    "type": "article-journal",
+    "volume": "5",
+    "year": 2008,
+    "year_label": "2008",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Ai",
+        "given": "M."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Lin",
+        "given": "D. K. J."
+      }
+    ],
+    "container-title": "Statist. Probab. Lett.",
+    "id": "AiHic05b",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "896-903",
+    "title": "Optimal foldover plans for regular $s$-level fractional factorial designs",
+    "type": "article-journal",
+    "volume": "78",
+    "year": 2008,
+    "year_label": "2008",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1007/s10463-007-0121-9",
+    "author": [
+      {
+        "family": "Liang",
+        "given": "J. J."
+      },
+      {
+        "family": "Fang",
+        "given": "K. T."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Ann. Inst. Statist. Math.",
+    "id": "LiaFanHic05a",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "679-696",
+    "title": "Some necessary uniform tests for spherical symmetry",
+    "type": "article-journal",
+    "volume": "60",
+    "year": 2008,
+    "year_label": "2008",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Wasilkowski",
+        "given": "G. W."
+      },
+      {
+        "family": "Woźniakowski",
+        "given": "H."
+      }
+    ],
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods 2006",
+    "editor": [
+      {
+        "family": "Keller",
+        "given": "A."
+      },
+      {
+        "family": "Heinrich",
+        "given": "S."
+      },
+      {
+        "family": "Niederreiter",
+        "given": "H."
+      }
+    ],
+    "id": "HicWasWoz06a",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "423-452",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "Tractability of linear multivariate problems in the average case setting",
+    "type": "paper-conference",
+    "year": 2008,
+    "year_label": "2008",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Fang",
+        "given": "K. T."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Encyclopedia of statistics in quality and reliability",
+    "editor": [
+      {
+        "family": "Ruggeri",
+        "given": "F."
+      },
+      {
+        "family": "Kenett",
+        "given": "R."
+      },
+      {
+        "family": "Faltin",
+        "given": "F."
+      }
+    ],
+    "id": "FangHic07a",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "2037-2040",
+    "publisher": "John Wiley & Sons",
+    "publisher-place": "New York",
+    "title": "Uniform experimental design",
+    "type": "chapter",
+    "year": 2008,
+    "year_label": "2008",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Damelin",
+        "given": "S. B."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Proc. 2007 international conference on computational and mathematical methods in science and engineering",
+    "editor": [
+      {
+        "family": "Wade",
+        "given": "B. A."
+      }
+    ],
+    "id": "DamHic07b",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "page": "143-147",
+    "title": "Energy and discrepancy as designs for numerical computation",
+    "type": "paper-conference",
+    "year": 2007,
+    "year_label": "2007",
+    "category": "Other publications",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Fang",
+        "given": "K. T."
+      },
+      {
+        "family": "Liang",
+        "given": "J. J."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Li",
+        "given": "R."
+      }
+    ],
+    "container-title": "Random walks, sequential analysis and related topics",
+    "editor": [
+      {
+        "family": "Hsiung",
+        "given": "A."
+      },
+      {
+        "family": "Ying",
+        "given": "Z."
+      },
+      {
+        "family": "Zhang",
+        "given": "C.-H."
+      }
+    ],
+    "id": "FanEtal06a",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "254-268",
+    "publisher": "World Scientific, Singapore",
+    "title": "A stabilized uniform q-q plot to detect non-multinormality",
+    "type": "paper-conference",
+    "year": 2006,
+    "year_label": "2006",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "M. Q."
+      },
+      {
+        "family": "Fang",
+        "given": "K. T."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Statist. Sinica",
+    "id": "LiuFanHic05a",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "1285-1297",
+    "title": "Connections among different criteria for asymmetrical fractional factorial designs",
+    "type": "article-journal",
+    "volume": "16",
+    "year": 2006,
+    "year_label": "2006",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Zeng",
+        "given": "X. Y."
+      },
+      {
+        "family": "Leung",
+        "given": "K. T."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods 2004",
+    "editor": [
+      {
+        "family": "Niederreiter",
+        "given": "H."
+      },
+      {
+        "family": "Talay",
+        "given": "D."
+      }
+    ],
+    "id": "ZenEtal05a",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "501-514",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "Error analysis of splines for periodic problems using lattice designs",
+    "type": "paper-conference",
+    "year": 2006,
+    "year_label": "2006",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "K. I."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods 2004",
+    "editor": [
+      {
+        "family": "Niederreiter",
+        "given": "H."
+      },
+      {
+        "family": "Talay",
+        "given": "D."
+      }
+    ],
+    "id": "LiuHic05a",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "343-354",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "Experimental designs using digital nets with small numbers of points",
+    "type": "paper-conference",
+    "year": 2006,
+    "year_label": "2006",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Encyclopedia of statistical sciences",
+    "edition": "Second",
+    "editor": [
+      {
+        "family": "Kotz",
+        "given": "S."
+      },
+      {
+        "family": "Johnson",
+        "given": "N. L."
+      },
+      {
+        "family": "Read",
+        "given": "C. B."
+      },
+      {
+        "family": "Balakrishnan",
+        "given": "N."
+      },
+      {
+        "family": "Vidakovic",
+        "given": "B."
+      }
+    ],
+    "id": "Hic04a",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "3862-3867",
+    "publisher": "John Wiley & Sons",
+    "publisher-place": "Hoboken, NJ",
+    "title": "Koksma-Hlawka inequality",
+    "type": "chapter",
+    "volume": "6",
+    "year": 2006,
+    "year_label": "2006",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Feng",
+        "given": "K."
+      },
+      {
+        "family": "Xu",
+        "given": "L."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Finite Fields Appl.",
+    "id": "FenXuHic05a",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "638-652",
+    "title": "Linear error-block codes",
+    "type": "article-journal",
+    "volume": "12",
+    "year": 2006,
+    "year_label": "2006",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1137/040621776",
+    "author": [
+      {
+        "family": "Yue",
+        "given": "R. X."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "SIAM J. Numer. Anal.",
+    "id": "YueHic05a",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "2559-2583",
+    "title": "Strong tractability of quasi-Monte Carlo quadrature using nets for certain Banach spaces",
+    "type": "article-journal",
+    "volume": "44",
+    "year": 2006,
+    "year_label": "2006",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "M. Q."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Metrika",
+    "id": "LiuHic03a",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "317-327",
+    "title": "The relationship between discrepancies defined on a domain and on its subset",
+    "type": "article-journal",
+    "volume": "63",
+    "year": 2006,
+    "year_label": "2006",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Sloan",
+        "given": "I. H."
+      },
+      {
+        "family": "Wasilkowski",
+        "given": "G. W."
+      }
+    ],
+    "container-title": "SIAM J. Numer. Anal.",
+    "id": "HicSloWas03d",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "1003-1020",
+    "title": "A piece-wise constant algorithm for weighted $L_1$ approximation over bounded or unbounded regions",
+    "type": "article-journal",
+    "volume": "43",
+    "year": 2005,
+    "year_label": "2005",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Fang",
+        "given": "G."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Li",
+        "given": "H."
+      }
+    ],
+    "container-title": "J. Complexity",
+    "id": "FanHic04a",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "294-313",
+    "title": "Approximation on anisotropic multivariate Besov classes of functions by standard information",
+    "type": "article-journal",
+    "year": 2005,
+    "year_label": "2005",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1214/088342304000000468",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Lemieux",
+        "given": "C."
+      },
+      {
+        "family": "Owen",
+        "given": "A. B."
+      }
+    ],
+    "container-title": "Statist. Sci.",
+    "id": "HicEtal03",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "1-31",
+    "title": "Control variates for quasi-Monte Carlo",
+    "type": "article-journal",
+    "volume": "20",
+    "year": 2005,
+    "year_label": "2005",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "collection-title": "Series in biostatistics",
+    "container-title": "Contemporary multivariate analysis and experimental design",
+    "editor": [
+      {
+        "family": "Fan",
+        "given": "J."
+      },
+      {
+        "family": "Li",
+        "given": "G."
+      }
+    ],
+    "id": "Hic05a",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "185-203",
+    "publisher": "World Scientific",
+    "publisher-place": "Singapore",
+    "title": "Granularity and balance in experimental design",
+    "type": "chapter",
+    "volume": "2",
+    "year": 2005,
+    "year_label": "2005",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Yue",
+        "given": "R. X."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Math. Comp.",
+    "id": "YueHic04a",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "1871-1893",
+    "title": "Strong tractability of integration using scrambled Niederreiter points",
+    "type": "article-journal",
+    "volume": "74",
+    "year": 2005,
+    "year_label": "2005",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "K. I."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "collection-title": "Lecture notes in computer science",
+    "container-title": "Parallel and distributed processing and applications",
+    "editor": [
+      {
+        "family": "Cao",
+        "given": "J."
+      },
+      {
+        "family": "Yang",
+        "given": "L. T."
+      },
+      {
+        "family": "Guo",
+        "given": "M."
+      },
+      {
+        "family": "Lau",
+        "given": "F."
+      }
+    ],
+    "id": "LiuHic04a",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "257-262",
+    "publisher": "Springer-Verlag, Heidelberg",
+    "title": "A scalable low discrepancy point generator for parallel computing",
+    "type": "paper-conference",
+    "volume": "3358",
+    "year": 2004,
+    "year_label": "2004",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1090/S0025-5718-04-01653-9",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Sloan",
+        "given": "I. H."
+      },
+      {
+        "family": "Wasilkowski",
+        "given": "G. W."
+      }
+    ],
+    "container-title": "Math. Comp.",
+    "id": "HicSloWas03c",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "1903-1911",
+    "title": "On strong tractability of weighted multivariate integration",
+    "type": "article-journal",
+    "volume": "73",
+    "year": 2004,
+    "year_label": "2004",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Sloan",
+        "given": "I. H."
+      },
+      {
+        "family": "Wasilkowski",
+        "given": "G. W."
+      }
+    ],
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods 2002",
+    "editor": [
+      {
+        "family": "Niederreiter",
+        "given": "H."
+      }
+    ],
+    "id": "HicSloWas03b",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "51-71",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "On tractability of weighted integration for certain Banach spaces of functions",
+    "type": "paper-conference",
+    "year": 2004,
+    "year_label": "2004",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1090/S0025-5718-04-01624-2",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Sloan",
+        "given": "I. H."
+      },
+      {
+        "family": "Wasilkowski",
+        "given": "G. W."
+      }
+    ],
+    "container-title": "Math. Comp.",
+    "id": "HicSloWas03a",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "1885-1901",
+    "title": "On tractability of weighted integration over bounded and unbounded regions in $\\mathbb{R}^s$",
+    "type": "article-journal",
+    "volume": "73",
+    "year": 2004,
+    "year_label": "2004",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Heinrich",
+        "given": "S."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Yue",
+        "given": "R. X."
+      }
+    ],
+    "container-title": "Math. Comp.",
+    "id": "HeiHicYue02a",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "259-277",
+    "title": "Optimal quadrature for Haar wavelet spaces",
+    "type": "article-journal",
+    "volume": "73",
+    "year": 2004,
+    "year_label": "2004",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Sloan",
+        "given": "I. H."
+      },
+      {
+        "family": "Wasilkowski",
+        "given": "G. W."
+      }
+    ],
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods 2002",
+    "editor": [
+      {
+        "family": "Niederreiter",
+        "given": "H."
+      }
+    ],
+    "id": "HicSloWas03e",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "259-273",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "The strong tractability of multivariate integration using lattice rules",
+    "type": "paper-conference",
+    "year": 2004,
+    "year_label": "2004",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1145/779359.779360",
+    "author": [
+      {
+        "family": "Hong",
+        "given": "H. S."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "ACM Trans. Math. Software",
+    "id": "HonHic00a",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "95-109",
+    "title": "Algorithm 823: Implementing scrambled digital nets",
+    "type": "article-journal",
+    "volume": "29",
+    "year": 2003,
+    "year_label": "2003",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "J. Complexity",
+    "id": "Hic03b",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "420-427",
+    "title": "My dream quadrature rule",
+    "type": "article-journal",
+    "volume": "19",
+    "year": 2003,
+    "year_label": "2003",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hong",
+        "given": "H. S."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Wei",
+        "given": "G."
+      }
+    ],
+    "container-title": "Math. Comput. Simulation",
+    "id": "HonHicWei03",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "335-345",
+    "title": "The distribution of the discrepancy of scrambled digital $(t,m,s)$-nets",
+    "type": "article-journal",
+    "volume": "62",
+    "year": 2003,
+    "year_label": "2003",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Niederreiter",
+        "given": "H."
+      }
+    ],
+    "container-title": "J. Complexity",
+    "id": "HicNie03a",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "286-300",
+    "title": "The existence of good extensible rank-1 lattices",
+    "type": "article-journal",
+    "volume": "19",
+    "year": 2003,
+    "year_label": "2003",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "D."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "collection-title": "AMS series in contemporary mathematics",
+    "container-title": "Recent advances in scientific computing and partial differential equations",
+    "editor": [
+      {
+        "family": "Cheng",
+        "given": "S. Y."
+      },
+      {
+        "family": "Shu",
+        "given": "C.-W."
+      },
+      {
+        "family": "Tang",
+        "given": "T."
+      }
+    ],
+    "id": "LiHic03a",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "121-132",
+    "publisher": "American Mathematical Society, Providence, Rhode Island",
+    "title": "Trigonometric spectral collocation methods on lattices",
+    "type": "paper-conference",
+    "volume": "330",
+    "year": 2003,
+    "year_label": "2003",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "M. Q."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Statist. Sinica",
+    "id": "LiuHic01a",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "931-939",
+    "title": "${E(s^2)}$-optimality and minimum discrepancy in 2-level supersaturated designs",
+    "type": "article-journal",
+    "volume": "12",
+    "year": 2002,
+    "year_label": "2002",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods 2000",
+    "editor": [
+      {
+        "family": "Fang",
+        "given": "K. T."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Niederreiter",
+        "given": "H."
+      }
+    ],
+    "id": "WanHic02a",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "158-167",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "An historical overview of lattice point sets",
+    "type": "paper-conference",
+    "year": 2002,
+    "year_label": "2002",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "editor": [
+      {
+        "family": "Fang",
+        "given": "K. T."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Niederreiter",
+        "given": "H."
+      }
+    ],
+    "id": "NieFanHic01",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "Monte Carlo and quasi-Monte Carlo methods 2000",
+    "type": "book",
+    "year": 2002,
+    "year_label": "2002",
+    "category": "Edited volumes",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods 2000",
+    "editor": [
+      {
+        "family": "Fang",
+        "given": "K. T."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Niederreiter",
+        "given": "H."
+      }
+    ],
+    "id": "Hic01a",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "274-289",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "Obtaining $O(N^{-2+\\epsilon})$ convergence for lattice quadrature rules",
+    "type": "paper-conference",
+    "year": 2002,
+    "year_label": "2002",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Hong",
+        "given": "H. S."
+      }
+    ],
+    "collection-title": "AMS/IP studies in advanced mathematics",
+    "container-title": "Applied probability",
+    "editor": [
+      {
+        "family": "Chan",
+        "given": "R."
+      },
+      {
+        "family": "Kwok",
+        "given": "Y.-K."
+      },
+      {
+        "family": "Yao",
+        "given": "D."
+      },
+      {
+        "family": "Zhang",
+        "given": "Q."
+      }
+    ],
+    "id": "Hic00a",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "59-77",
+    "publisher": "American Mathematical Society, Providence, Rhode Island",
+    "title": "Quasi-Monte Carlo methods and their randomizations",
+    "type": "paper-conference",
+    "volume": "26",
+    "year": 2002,
+    "year_label": "2002",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Yue",
+        "given": "R. X."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Metrika",
+    "id": "YueHic97b",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "161-176",
+    "title": "Robust designs for smoothing spline ANOVA models",
+    "type": "article-journal",
+    "volume": "55",
+    "year": 2002,
+    "year_label": "2002",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Yue",
+        "given": "R. X."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "J. Complexity",
+    "id": "YueHic02a",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "135-151",
+    "title": "The discrepancy and gain coefficients of scrambled digital nets",
+    "type": "article-journal",
+    "volume": "18",
+    "year": 2002,
+    "year_label": "2002",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1090/S0025-5718-01-01377-1",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Wang",
+        "given": "X."
+      }
+    ],
+    "container-title": "Math. Comp.",
+    "id": "WanHic00b",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "1641-1661",
+    "title": "The error bounds and tractability of quasi-Monte Carlo algorithms in infinite dimension",
+    "type": "article-journal",
+    "volume": "71",
+    "year": 2002,
+    "year_label": "2002",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1093/biomet/89.4.893",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Liu",
+        "given": "M. Q."
+      }
+    ],
+    "container-title": "Biometrika",
+    "id": "HicLiu01a",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "893-904",
+    "title": "Uniform designs limit aliasing",
+    "type": "article-journal",
+    "volume": "89",
+    "year": 2002,
+    "year_label": "2002",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Yue",
+        "given": "R. X."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "J. Complexity",
+    "id": "YueHic00a",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "page": "881-897",
+    "title": "Integration and approximation based on scramble sampling in arbitrary dimensions",
+    "type": "article-journal",
+    "volume": "17",
+    "year": 2001,
+    "year_label": "2001",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Heinrich",
+        "given": "S."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Yue",
+        "given": "R. X."
+      }
+    ],
+    "collection-number": "2251",
+    "collection-title": "Lecture notes in computer science",
+    "container-title": "Wavelet analysis and its applications",
+    "editor": [
+      {
+        "family": "Tang",
+        "given": "Y. Y."
+      },
+      {
+        "family": "Wickerhauser",
+        "given": "V."
+      },
+      {
+        "family": "Yuen",
+        "given": "P. C."
+      },
+      {
+        "family": "Li",
+        "given": "C. H."
+      }
+    ],
+    "id": "HeiHicYue02b",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "page": "99-106",
+    "publisher": "Springer-Verlag, New York",
+    "title": "Integration of multivariate Haar wavelet series",
+    "type": "paper-conference",
+    "year": 2001,
+    "year_label": "2001",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "collection-title": "J. complexity",
+    "editor": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Woźniakowski",
+        "given": "H."
+      }
+    ],
+    "id": "HicWoz01a",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "publisher": "Academic Press, Orlando, FL",
+    "title": "Special issue on the complexity of multivariate problems",
+    "type": "book",
+    "volume": "17, no. 4",
+    "year": 2001,
+    "year_label": "2001",
+    "category": "Edited volumes",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Liang",
+        "given": "J. J."
+      },
+      {
+        "family": "Fang",
+        "given": "K. T."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Li",
+        "given": "R."
+      }
+    ],
+    "container-title": "Math. Comp.",
+    "id": "LiaEtal99",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "page": "337-355",
+    "title": "Testing multivariate uniformity and its applications",
+    "type": "article-journal",
+    "volume": "70",
+    "year": 2001,
+    "year_label": "2001",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Woźniakowski",
+        "given": "H."
+      }
+    ],
+    "container-title": "J. Complexity",
+    "id": "HicWoz00a",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "page": "625-659",
+    "title": "The price of pessimism for multidimensional quadrature",
+    "type": "article-journal",
+    "volume": "17",
+    "year": 2001,
+    "year_label": "2001",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1006/jcom.2001.0592",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Woźniakowski",
+        "given": "H."
+      }
+    ],
+    "container-title": "J. Complexity",
+    "id": "HicWoz00b",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "page": "660-682",
+    "title": "Tractability of multivariate integration for periodic functions",
+    "type": "article-journal",
+    "volume": "17",
+    "year": 2001,
+    "year_label": "2001",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Liu",
+        "given": "M. Q."
+      },
+      {
+        "family": "Yam",
+        "given": "Y. C."
+      }
+    ],
+    "container-title": "J. Chinese Statistical Association",
+    "id": "HicLiuYam01a",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "353-373",
+    "title": "Discrepancy measures of uniformity",
+    "type": "article-journal",
+    "volume": "38",
+    "year": 2000,
+    "year_label": "2000",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1137/S1064827599356638",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Hong",
+        "given": "H. S."
+      },
+      {
+        "family": "L’Écuyer",
+        "given": "P."
+      },
+      {
+        "family": "Lemieux",
+        "given": "C."
+      }
+    ],
+    "container-title": "SIAM J. Sci. Comput.",
+    "id": "HicEtal00",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "1117-1138",
+    "title": "Extensible lattice sequences for quasi-Monte Carlo quadrature",
+    "type": "article-journal",
+    "volume": "22",
+    "year": 2000,
+    "year_label": "2000",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1023/A:1018948631251",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Woźniakowski",
+        "given": "H."
+      }
+    ],
+    "container-title": "Adv. Comput. Math.",
+    "id": "HicWoz99",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "25-58",
+    "title": "Integration and approximation in arbitrary dimensions",
+    "type": "article-journal",
+    "volume": "12",
+    "year": 2000,
+    "year_label": "2000",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "X."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Math. Comput. Modelling",
+    "id": "WanHic00",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "887-899",
+    "title": "Randomized Halton sequences",
+    "type": "article-journal",
+    "volume": "32",
+    "year": 2000,
+    "year_label": "2000",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1137/S0036142999358019",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Yue",
+        "given": "R. X."
+      }
+    ],
+    "container-title": "SIAM J. Numer. Anal.",
+    "id": "HicYue00",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "1089-1112",
+    "title": "The mean square discrepancy of scrambled $(t,s)$-sequences",
+    "type": "article-journal",
+    "volume": "38",
+    "year": 2000,
+    "year_label": "2000",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods 1998",
+    "editor": [
+      {
+        "family": "Niederreiter",
+        "given": "H."
+      },
+      {
+        "family": "Spanier",
+        "given": "J."
+      }
+    ],
+    "id": "Hic99b",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "16-55",
+    "publisher": "Springer-Verlag, Berlin",
+    "title": "What affects the accuracy of quasi-Monte Carlo quadrature?",
+    "type": "paper-conference",
+    "year": 2000,
+    "year_label": "2000",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1016/S0167-7152(98)00293-4",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Statist. Probab. Lett.",
+    "id": "Hic99a",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "73-78",
+    "title": "Goodness-of-fit statistics, discrepancies and robust designs",
+    "type": "article-journal",
+    "volume": "44",
+    "year": 1999,
+    "year_label": "1999",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Hon",
+        "given": "Y. C."
+      }
+    ],
+    "container-title": "Appl. Math. Comput.",
+    "id": "HicHon98b",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "1-24",
+    "title": "Radial basis function approximation as smoothing splines",
+    "type": "article-journal",
+    "volume": "102",
+    "year": 1999,
+    "year_label": "1999",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Yue",
+        "given": "R. X."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Statist. Sinica",
+    "id": "YueHic97a",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "1053-1069",
+    "title": "Robust designs for fitting linear models with misspecification",
+    "type": "article-journal",
+    "volume": "9",
+    "year": 1999,
+    "year_label": "1999",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Hong",
+        "given": "H. S."
+      }
+    ],
+    "container-title": "Math. Comp.",
+    "id": "HicHon98a",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "767-791",
+    "title": "The asymptotic efficiency of randomized nets for quadrature",
+    "type": "article-journal",
+    "volume": "68",
+    "year": 1999,
+    "year_label": "1999",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1090/S0025-5718-98-00894-1",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Math. Comp.",
+    "id": "Hic97a",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "299-322",
+    "title": "A generalized discrepancy and quadrature error bound",
+    "type": "article-journal",
+    "volume": "67",
+    "year": 1998,
+    "year_label": "1998",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "collection-title": "Lecture notes in statistics",
+    "container-title": "Random and quasi-random point sets",
+    "editor": [
+      {
+        "family": "Hellekalek",
+        "given": "P."
+      },
+      {
+        "family": "Larcher",
+        "given": "G."
+      }
+    ],
+    "id": "Hic98b",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "109-166",
+    "publisher": "Springer-Verlag",
+    "publisher-place": "New York",
+    "title": "Lattice rules: How well do they measure up?",
+    "type": "chapter",
+    "volume": "138",
+    "year": 1998,
+    "year_label": "1998",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Hon",
+        "given": "Y. C."
+      }
+    ],
+    "container-title": "Internat. J. Appl. Sci. Comput.",
+    "id": "HicHon97b",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "221-247",
+    "title": "Radial basis function approximation of the surface wind field from scattered data",
+    "type": "article-journal",
+    "volume": "4",
+    "year": 1998,
+    "year_label": "1998",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "L. X."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "An",
+        "given": "H. Z."
+      }
+    ],
+    "container-title": "Chinese J. Contemp. Math.",
+    "id": "ZhuHicAn97",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "page": "199-206",
+    "title": "A goodness-of-fit test for linearity of a stochastic regression model",
+    "type": "article-journal",
+    "volume": "18",
+    "year": 1997,
+    "year_label": "1997",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "An",
+        "given": "H. Z."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Zhu",
+        "given": "L. X."
+      }
+    ],
+    "container-title": "J. Multivariate Anal.",
+    "id": "AnHicZhu98",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "page": "242-258",
+    "title": "A new class of consistent estimators for stochastic linear regressive models",
+    "type": "article-journal",
+    "volume": "63",
+    "year": 1997,
+    "year_label": "1997",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Yuan",
+        "given": "Y. X."
+      }
+    ],
+    "container-title": "Oper. Res. Trans.",
+    "id": "HicYua98",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "page": "1-11",
+    "title": "A simple multi-start algorithm for global optimization",
+    "type": "article-journal",
+    "volume": "1",
+    "year": 1997,
+    "year_label": "1997",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Hong",
+        "given": "H. S."
+      }
+    ],
+    "container-title": "Proceedings of the workshop on scientific computing",
+    "editor": [
+      {
+        "family": "Golub",
+        "given": "G. H."
+      },
+      {
+        "family": "Lui",
+        "given": "S. H."
+      },
+      {
+        "family": "Luk",
+        "given": "F. T."
+      },
+      {
+        "family": "Plemmons",
+        "given": "R. J."
+      }
+    ],
+    "id": "HicHon97a",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "page": "209-215",
+    "publisher": "Springer-Verlag, Singapore",
+    "publisher-place": "Hong Kong",
+    "title": "Computing multivariate normal probabilities using rank-1 lattice sequences",
+    "type": "paper-conference",
+    "year": 1997,
+    "year_label": "1997",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Yue",
+        "given": "R. X."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. S."
+      }
+    ],
+    "container-title": "IEEE Trans. Ultrason., Ferroelectrics & Frequency Control",
+    "id": "HicYueHic96",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "page": "615-623",
+    "title": "Statistical modeling for the optimal deposition of sputtered piezoelectric films",
+    "type": "article-journal",
+    "volume": "44",
+    "year": 1997,
+    "year_label": "1997",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Fang",
+        "given": "K. T."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "J. Roy. Statist. Soc. B",
+    "id": "FanHic96",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "page": "103",
+    "title": "Comment on “Experimental design and observation for large systems”, by R. A. Bates et. al.",
+    "type": "article-journal",
+    "volume": "58",
+    "year": 1996,
+    "year_label": "1996",
+    "category": "Other publications",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "SIAM J. Numer. Anal.",
+    "id": "Hic96a",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "page": "1995-2016",
+    "title": "Quadrature error bounds with applications to lattice rules",
+    "type": "article-journal",
+    "volume": "33",
+    "year": 1996,
+    "year_label": "1996",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Wei",
+        "given": "B. C."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Statist. Sinica",
+    "id": "WeiHic96",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "page": "433-454",
+    "title": "Regression transformation diagnostics for explanatory variables",
+    "type": "article-journal",
+    "volume": "6",
+    "year": 1996,
+    "year_label": "1996",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Fang",
+        "given": "K. T."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Winker",
+        "given": "P."
+      }
+    ],
+    "collection-title": "Lecture notes in operations research",
+    "container-title": "Operations research and its applications",
+    "editor": [
+      {
+        "family": "Du",
+        "given": "D. Z."
+      },
+      {
+        "family": "Zhang",
+        "given": "Z. S."
+      },
+      {
+        "family": "Cheng",
+        "given": "K."
+      }
+    ],
+    "id": "FanHicWin97",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "page": "14-24",
+    "publisher": "World Publishing Corp., Beijing",
+    "title": "Some global optimization algorithms in statistics",
+    "type": "paper-conference",
+    "volume": "2",
+    "year": 1996,
+    "year_label": "1996",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "ACM Trans. Model. Comput. Simul.",
+    "id": "Hic96b",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "page": "274-296",
+    "title": "The mean square discrepancy of randomized nets",
+    "type": "article-journal",
+    "volume": "6",
+    "year": 1996,
+    "year_label": "1996",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "collection-title": "Lecture notes in statistics",
+    "container-title": "Monte Carlo and quasi-Monte Carlo methods in scientific computing",
+    "editor": [
+      {
+        "family": "Niederreiter",
+        "given": "H."
+      },
+      {
+        "family": "Shiue",
+        "given": "P. J.-S."
+      }
+    ],
+    "id": "Hic95",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "page": "213-227",
+    "publisher": "Springer-Verlag, New York",
+    "title": "A comparison of random and quasirandom points for multidimensional quadrature",
+    "type": "paper-conference",
+    "volume": "106",
+    "year": 1995,
+    "year_label": "1995",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Fang",
+        "given": "K. T."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Bull. Inst. Internat. Statist., $50^{\\mbox{th}}$ Session, Book 1",
+    "id": "FanHic95",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "page": "333-349",
+    "publisher-place": "Beijing",
+    "title": "The uniform design and its applications",
+    "type": "article-journal",
+    "year": 1995,
+    "year_label": "1995",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "An",
+        "given": "H. Z."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Zhu",
+        "given": "L. X."
+      }
+    ],
+    "container-title": "Chinese Sci. Bull.",
+    "id": "AnHicZhu95",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "page": "802-807",
+    "title": "Universally consistent estimation for stochastic regression models",
+    "type": "article-journal",
+    "volume": "40",
+    "year": 1995,
+    "year_label": "1995",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J. D."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Sci. China Ser. A",
+    "id": "CheHic94",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "page": "1314-1324",
+    "title": "A class of asymptotically optimal sequential tests for composite hypotheses",
+    "type": "article-journal",
+    "volume": "37",
+    "year": 1994,
+    "year_label": "1994",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Yortsos",
+        "given": "Y. C."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "SIAM J. Appl. Math.",
+    "id": "YorHic89",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "page": "730-748",
+    "title": "Linear stability of immiscible displacement processes in porous media",
+    "type": "article-journal",
+    "volume": "49",
+    "year": 1989,
+    "year_label": "1989",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Proskurowski",
+        "given": "W."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "id": "ProHic88",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "publisher": "Saunders College Publishing",
+    "publisher-place": "Philadelphia",
+    "title": "Comp-u-calc (software and user’s manual/workbook)",
+    "type": "book",
+    "year": 1988,
+    "year_label": "1988",
+    "category": "Software",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Chan",
+        "given": "M. K."
+      },
+      {
+        "family": "Li",
+        "given": "M. J."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Hu",
+        "given": "S. J."
+      },
+      {
+        "family": "Ng",
+        "given": "S. K."
+      },
+      {
+        "family": "Ngai",
+        "given": "H. M."
+      },
+      {
+        "family": "Barnett",
+        "given": "C. C."
+      },
+      {
+        "family": "Holmes",
+        "given": "W. M."
+      }
+    ],
+    "container-title": "Proc. 1988 summer computer simulation conference",
+    "id": "ChaEtal88",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "page": "881-885",
+    "publisher-place": "Seattle, WA",
+    "title": "Simulation studies of the automatic control of a blast furnace process",
+    "type": "paper-conference",
+    "year": 1988,
+    "year_label": "1988",
+    "category": "Other publications",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F."
+      },
+      {
+        "family": "Proskurowski",
+        "given": "W."
+      }
+    ],
+    "container-title": "Comput. Math. Appl.",
+    "id": "HicPro87",
+    "issued": {
+      "date-parts": [
+        [
+          1987
+        ]
+      ]
+    },
+    "page": "3-24",
+    "title": "Design of a calculus microcomputer laboratory",
+    "type": "article-journal",
+    "volume": "14",
+    "year": 1987,
+    "year_label": "1987",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Yortsos",
+        "given": "Y. C."
+      }
+    ],
+    "container-title": "Stud. Appl. Math",
+    "id": "HicYor86",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "page": "93-115",
+    "title": "Linear stability of miscible displacement processes in porous media in the absence of dispersion",
+    "type": "article-journal",
+    "volume": "74",
+    "year": 1986,
+    "year_label": "1986",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Stud. Appl. Math",
+    "id": "Hic85",
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "page": "87-93",
+    "title": "An upper bound on the growth rate of a linear instability in a homogeneous shear flow",
+    "type": "article-journal",
+    "volume": "72",
+    "year": 1985,
+    "year_label": "1985",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F."
+      },
+      {
+        "family": "Proskurowski",
+        "given": "W."
+      }
+    ],
+    "container-title": "Collegiate Microcomputer",
+    "id": "HicPro85",
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "page": "111-125",
+    "title": "The use of microcomputers in the teaching of calculus",
+    "type": "article-journal",
+    "volume": "3",
+    "year": 1985,
+    "year_label": "1985",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F."
+      },
+      {
+        "family": "Proskurowski",
+        "given": "W."
+      }
+    ],
+    "container-title": "SIAM News",
+    "id": "HicPro84",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "page": "16",
+    "title": "Teaching calculus with computers at USC",
+    "type": "article-journal",
+    "volume": "18",
+    "year": 1984,
+    "year_label": "1984",
+    "category": "Other publications",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "J. Fluid Mech.",
+    "id": "Hic84",
+    "issued": {
+      "date-parts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "page": "431-449",
+    "title": "Time-dependent critical layers in shear flows on the beta-plane",
+    "type": "article-journal",
+    "volume": "142",
+    "year": 1984,
+    "year_label": "1984",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1002/sapm19836911",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Stud. Appl. Math",
+    "id": "Hic83a",
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "page": "1-21",
+    "title": "The evolution of large-horizontal-scale disturbances in marginally stable, inviscid, shear flows. I. Derivation of the amplitude evolution equations",
+    "type": "article-journal",
+    "volume": "69",
+    "year": 1983,
+    "year_label": "1983",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "DOI": "10.1002/sapm198369123",
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Stud. Appl. Math",
+    "id": "Hic83b",
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "page": "23-49",
+    "title": "The evolution of large-horizontal-scale disturbances in marginally stable, inviscid, shear flows. II. Solutions of the Boussinesq equation",
+    "type": "article-journal",
+    "volume": "69",
+    "year": 1983,
+    "year_label": "1983",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "W. E."
+      },
+      {
+        "family": "Pollard",
+        "given": "J. E."
+      },
+      {
+        "family": "Blaney",
+        "given": "J. M."
+      },
+      {
+        "family": "Winker",
+        "given": "B. K."
+      },
+      {
+        "family": "Mun",
+        "given": "I. K."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Hollenberg",
+        "given": "S. J."
+      }
+    ],
+    "container-title": "J. Phys. Chem.",
+    "id": "SteEtal79",
+    "issued": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    },
+    "page": "1540-1545",
+    "title": "Conformational analysis of conjugated polyenes by nuclear magnetic resonance and low resolution microwave spectroscopy",
+    "type": "article-journal",
+    "volume": "83",
+    "year": 1979,
+    "year_label": "1979",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "W. E."
+      },
+      {
+        "family": "Hollenberg",
+        "given": "J."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F."
+      },
+      {
+        "family": "Orr",
+        "given": "C. E."
+      },
+      {
+        "family": "Scharpen",
+        "given": "L. H."
+      }
+    ],
+    "container-title": "J. Phys. Chem.",
+    "id": "SteEtal78",
+    "issued": {
+      "date-parts": [
+        [
+          1978
+        ]
+      ]
+    },
+    "page": "940-943",
+    "title": "Conformational analysis of substituted alkenes by low resolution microwave spectroscopy",
+    "type": "article-journal",
+    "volume": "82",
+    "year": 1978,
+    "year_label": "1978",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Elderkin",
+        "given": "R. H."
+      },
+      {
+        "family": "Berkowitz",
+        "given": "D. P."
+      },
+      {
+        "family": "Farris",
+        "given": "F. A."
+      },
+      {
+        "family": "Gunn",
+        "given": "C. F."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      },
+      {
+        "family": "Kass",
+        "given": "S. N."
+      },
+      {
+        "family": "Mansfield",
+        "given": "F. I."
+      },
+      {
+        "family": "Taranto",
+        "given": "R. G."
+      }
+    ],
+    "container-title": "Nonlinear systems and applications: An international conference",
+    "editor": [
+      {
+        "family": "Lakshmikantham",
+        "given": "V."
+      }
+    ],
+    "id": "EldEtal77",
+    "issued": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    },
+    "page": "491-512",
+    "publisher": "Academic Press, New York",
+    "title": "On the steady state of an age dependent model for malaria",
+    "type": "paper-conference",
+    "year": 1977,
+    "year_label": "1977",
+    "category": "Chapters & conference papers",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "W. E."
+      },
+      {
+        "family": "Hickernell",
+        "given": "F."
+      },
+      {
+        "family": "Mun",
+        "given": "I. K."
+      },
+      {
+        "family": "Scharpen",
+        "given": "L. H."
+      }
+    ],
+    "container-title": "J. Molec. Spectro.",
+    "id": "SteEtal77",
+    "issued": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    },
+    "page": "173-182",
+    "title": "The conformational analysis of 1-haloalkanes by low resolution microwave spectroscopy",
+    "type": "article-journal",
+    "volume": "68",
+    "year": 1977,
+    "year_label": "1977",
+    "category": "Journal articles",
+    "status": "Published",
+    "topics": []
+  },
+  {
+    "author": [
+      {
+        "family": "Hickernell",
+        "given": "F. J."
+      }
+    ],
+    "container-title": "Proc. 1977 IEEE ultrason. Symp.",
+    "id": "Hic77",
+    "issued": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    },
+    "page": "309-312",
+    "title": "The effect of the structure and composition of zinc oxide films on their elastic properties",
+    "type": "paper-conference",
+    "year": 1977,
+    "year_label": "1977",
+    "category": "Other publications",
+    "status": "Published",
+    "topics": []
+  }
+]

@@ -1,0 +1,15 @@
+---
+title: Publications
+description: Fred Hickernell’s publications, organized by year and searchable by title, author, and venue.
+toc: false
+include-after-body: ../assets/publications.js
+---
+
+Browse by year, or search titles, coauthors, and publication venues. Public
+preprints and forthcoming work are identified in the catalog.
+
+[Google Scholar](https://scholar.google.com/citations?user=dJbMJG8AAAAJ&hl=en)
+· [Download BibTeX](../data/publications.bib)
+· [Download catalog data](../data/publications.json)
+
+{{< include ../_includes/publications.html >}}

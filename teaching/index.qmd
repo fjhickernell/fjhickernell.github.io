@@ -1,0 +1,27 @@
+---
+title: Teaching
+description: Current and recent applied mathematics courses taught by Fred Hickernell at Illinois Tech.
+---
+
+My courses connect mathematical reasoning with examples and computation.
+Each course website holds its own schedule, materials, and practical information.
+
+## Fall 2026
+
+| Course | Website |
+|:---|:---|
+| MATH 332 — Linear Algebra: Theory and Applications | [Course materials](https://fjhickernell.github.io/MATH332Fall2026/) |
+| MATH 565 — Monte Carlo and Quasi-Monte Carlo Methods | [Course materials](https://fjhickernell.github.io/MATH565Fall2026/) |
+
+## Earlier courses
+
+| Course | Semester | Website |
+|:---|:---|:---|
+| MATH 476 — Statistics | Spring 2026 | [Course materials](https://fjhickernell.github.io/MATH476Spring2026/) |
+| MATH 563 — Mathematical Statistics | Spring 2026 | [Course materials](https://fjhickernell.github.io/MATH563Spring2026/) |
+| MATH 565 — Monte Carlo and Quasi-Monte Carlo Methods | Fall 2025 | [Course materials](https://qmcsoftware.github.io/MATH565Fall2025/) |
+
+## Shared resources
+
+[HickernellAcademicLib](https://fjhickernell.github.io/HickernellAcademicLib/)
+contains resources shared across courses and presentations.
