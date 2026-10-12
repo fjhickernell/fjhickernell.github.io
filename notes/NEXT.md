@@ -16,7 +16,12 @@ are recorded in the shared project inventory.
 The draft has Home, Education & Experience, Research, Publications, Teaching,
 Talks, and Software pages. The separate Education & Experience page lists two
 degrees and ten academic and administrative appointments, transcribed from Fred's July 2025
-full CV. Fred confirmed the Vice Provost for Research appointment as 2018–2024;
+full CV. The page also includes three awards and seven society distinctions.
+Six distinctions are from that CV, cross-checked against the March 2026 brief CV;
+Fred supplied the SIAM fellowship (since 2026) on October 12, 2026.
+Society distinctions are displayed without dates, following Fred's edits.
+The homepage includes his supplied research wording and family/church bio.
+Fred confirmed the Vice Provost for Research appointment as 2018–2024;
 he no longer held that role from January 2025. The March 2026 brief CV's
 2018–present entry is outdated. The source CV folder remains in OneDrive;
 its contents are not copied into the site.
@@ -38,6 +43,9 @@ refresh. The SharedConfigs helper now watches nested page folders and ignores
 directory-only events and temporary HTML/library output that previously caused
 a render loop. The master
 bibliography still requires an explicit import after it changes; see README.md.
+The Publications page loads its generated catalog through a Lua filter after
+the pre-render hook, so fresh checkouts can render and start live preview
+without first generating the ignored include manually.
 
 ## Immediate next work
 
@@ -61,8 +69,8 @@ topic-branch validation alone does not publish the site.
 
 ## Validation and coverage
 
-Full Quarto render, public catalog checks, local-link checks, and six focused
-catalog regression tests pass. The shared live-preview helper's isolated
+Full Quarto render, public catalog checks, local-link checks, and seven focused
+catalog regression tests, including a fresh-checkout render, pass. The shared live-preview helper's isolated
 integration test checks nested page saves and prevention of render loops.
 All pages were inspected at desktop and 390px phone width. Navigation collapses below
 1200px to keep the longer education/experience label readable. Publication

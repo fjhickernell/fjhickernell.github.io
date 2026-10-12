@@ -15,7 +15,7 @@ Illinois Institute of Technology
 :::
 
 ::: {.lead-copy}
-I study how to make computational answers more efficient and more reliable,
+My research straddles computational mathematics and statistics. I investigate how to find computational answers more efficiently and more reliably,
 especially when a problem involves many variables or uncertain inputs.
 My work connects Monte Carlo and quasi-Monte Carlo methods, numerical
 approximation, and scientific software.
@@ -61,9 +61,7 @@ Degrees and academic and administrative appointments.
 Much of my career has been at Hong Kong Baptist University and Illinois
 Institute of Technology.
 
-Family is an important part of my life. I am a follower of Christ and a member
-of [Wheaton Chinese Alliance Church](https://www.wcac-cma.org/). My years living
-in Hong Kong are also part of my story.
+My primary identity is as a follower of Jesus. My wife, Elaine, has been walking with me for over fifty years. We are blessed with two adult children by birth and two more by marriage. Elaine and I serve at [Wheaton Chinese Alliance Church](https://www.wcac-cma.org/). My years living in Hong Kong are an important part of my story.
 :::
 
 ## Explore

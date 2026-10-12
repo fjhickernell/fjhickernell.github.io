@@ -10,9 +10,10 @@ and navbar. Degrees and roles use editable Markdown lists; include dates only
 when confirmed.
 Use degree abbreviations without periods, such as PhD and BA.
 
-The personal bio may mention family, following Christ, membership in Wheaton
-Chinese Alliance Church, and living in Hong Kong. Fred will supply more detail
-later; do not add family names or biographical dates without a source.
+The personal bio includes Fred's supplied details about following Jesus, his
+wife Elaine, their family, service at Wheaton Chinese Alliance Church, and
+living in Hong Kong. Do not add further family names or biographical dates
+without a source.
 
 ## Content ownership
 

@@ -4,6 +4,7 @@ from html.parser import HTMLParser
 import io
 import json
 from pathlib import Path
+import shutil
 import subprocess
 import tempfile
 import unittest
@@ -48,6 +49,37 @@ class CatalogStructure(HTMLParser):
 
 
 class RenderTests(unittest.TestCase):
+    def test_fresh_quarto_project_generates_catalog_before_filter_reads_it(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            (root / 'tools').mkdir()
+            (root / 'data').mkdir()
+            (root / 'publications').mkdir()
+            for name in ('render_publications.py', 'include_publications.lua'):
+                shutil.copy(renderer.ROOT / 'tools' / name, root / 'tools' / name)
+            (root / 'data/publications.json').write_text(json.dumps([
+                {'id': 'sample', 'title': 'Fresh checkout publication', 'year': 2026,
+                 'year_label': '2026', 'category': 'Journal articles',
+                 'status': 'Published', 'topics': [],
+                 'author': [{'given': 'Y.', 'family': 'Li'}]}
+            ]))
+            (root / 'data/publication-topics.json').write_text('{}')
+            (root / '_quarto.yml').write_text(
+                'project:\n  type: website\n  pre-render:\n'
+                '    - python3 tools/render_publications.py\nformat: html\n')
+            (root / 'publications/index.qmd').write_text(
+                '---\ntitle: Publications\nfilters:\n'
+                '  - ../tools/include_publications.lua\n---\n\n'
+                '::: {#generated-publications}\n:::\n')
+            self.assertFalse((root / '_includes/publications.html').exists())
+            result = subprocess.run(['quarto', 'render'], cwd=root,
+                                    text=True, capture_output=True)
+            self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+            rendered = (root / '_site/publications/index.html').read_text()
+            self.assertIn('Fresh checkout publication', rendered)
+            self.assertIn('<p>Y. Li</p>', rendered)
+            self.assertNotIn('generated-publications', rendered)
+
     def test_initials_remain_paragraphs_and_links_share_metadata_row(self):
         records = [
             {'id': 'li', 'title': 'A transformed $L_2$ design', 'year': 2020,

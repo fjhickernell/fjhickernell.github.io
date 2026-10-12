@@ -11,7 +11,6 @@ Initialize the recorded shared library, then render or preview:
 ```bash
 git submodule update --init --recursive
 python3 classlib/tools/bootstrap_consumer.py check .
-python3 tools/render_publications.py
 quarto render
 quarto preview --no-browser
 ```
@@ -22,6 +21,9 @@ and use the local URL it prints. Stop it with Ctrl+C. Its logs are ignored.
 
 Generated HTML in `_site/` and the generated publication include are ignored. Normal rendering uses only Quarto and
 Python’s standard library; bibliography import dependencies are separate.
+The pre-render hook generates the catalog, and the Publications page loads it
+through a Lua filter after that hook runs. A fresh checkout needs no separate
+catalog-generation command before rendering or starting `quarto-site-live`.
 
 ## Profile, education, and experience
 

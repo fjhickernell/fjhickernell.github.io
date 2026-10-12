@@ -3,6 +3,8 @@ title: Publications
 description: Fred Hickernell’s publications, organized by year and searchable by title, author, and venue.
 toc: false
 include-after-body: ../assets/publications.js
+filters:
+  - ../tools/include_publications.lua
 ---
 
 Browse by year, or search titles, coauthors, and publication venues. Public
@@ -12,4 +14,5 @@ preprints and forthcoming work are identified in the catalog.
 · [Download BibTeX](../data/publications.bib)
 · [Download catalog data](../data/publications.json)
 
-{{< include ../_includes/publications.html >}}
+::: {#generated-publications}
+:::
