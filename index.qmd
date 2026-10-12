@@ -27,6 +27,9 @@ approximation, and scientific software.
 [GitHub](https://github.com/fjhickernell)
 [Illinois Tech profile](https://www.iit.edu/directory/people/fred-hickernell)
 :::
+
+[Book a meeting with me](https://outlook.office.com/bookwithme/user/037b70c376b1407ea8aa7e57c242da0e@illinoistech.edu?anonymous&ep=plink).
+If you cannot find a suitable time, please [email me](mailto:hickernell@illinoistech.edu).
 :::
 ::: {.portrait}
 ![](classlib/classlib/quarto/assets/images/fredplaidshirtcropped.jpg){alt="Fred J. Hickernell"}

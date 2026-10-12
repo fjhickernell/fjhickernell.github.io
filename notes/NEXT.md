@@ -21,6 +21,8 @@ Six distinctions are from that CV, cross-checked against the March 2026 brief CV
 Fred supplied the SIAM fellowship (since 2026) on October 12, 2026.
 Society distinctions are displayed without dates, following Fred's edits.
 The homepage includes his supplied research wording and family/church bio.
+It also links to his Microsoft Bookings page, with an email fallback when no
+suitable meeting time is available.
 Fred confirmed the Vice Provost for Research appointment as 2018–2024;
 he no longer held that role from January 2025. The March 2026 brief CV's
 2018–present entry is outdated. The source CV folder remains in OneDrive;
@@ -48,6 +50,13 @@ the pre-render hook, so fresh checkouts can render and start live preview
 without first generating the ignored include manually.
 
 ## Immediate next work
+
+Fred submitted the Marketing and Communications directory-link request on
+October 12, 2026. Await their update linking his Illinois Tech faculty profile
+to https://fjhickernell.github.io/ and updating any existing Applied Mathematics
+personal-website links. Submission is complete; the institutional link changes
+remain unconfirmed. Use the [project request page](https://www.iit.edu/marketing-communications/submit-project-request)
+for the official form and process.
 
 Refine home/bio wording, featured publications, topic tags, and source freshness
 with Fred. See the
